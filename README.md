@@ -5,7 +5,7 @@ First, builder the app:
 npm run build
 ```
 
-After this you should to up the container
+After this you should up the container
 
 ```bash
 docker compose up --build
